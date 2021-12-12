@@ -100,7 +100,7 @@ function checkForMatch() {
     } else {
       cards[optionOneId].setAttribute('src', 'images/blank.png')
       cards[optionTwoId].setAttribute('src', 'images/blank.png')
-      alert('Sorry, try again')
+     
     }
     cardsChosen = []
     cardsChosenId = []
